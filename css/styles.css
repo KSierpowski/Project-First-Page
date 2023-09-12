@@ -19,3 +19,32 @@ article{
     margin: auto;
     padding-top: 70px;
 }
+
+.post-author {
+    color: #6c6c6c;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.share-post{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 22px;
+    text-transform: uppercase;
+
+}
+
+h1 {
+    margin: 0;
+    font-size: 52px;
+    letter-spacing: 1.3px;
+    line-height: 58px;
+}
+
+#title-section {
+    margin-bottom: 50px;
+}
+
+.hero-image img {
+    max-width: 100%;
+}
