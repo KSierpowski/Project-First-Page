@@ -13,3 +13,9 @@ header{
     letter-spacing: 0.6px;
     line-height: 30px;
 }
+
+article{
+    max-width: 850px;
+    margin: auto;
+    padding-top: 70px;
+}
