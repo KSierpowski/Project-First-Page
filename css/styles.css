@@ -34,6 +34,10 @@ article{
 
 }
 
+.uppercase{
+    text-transform: uppercase;
+}
+
 h1 {
     margin: 0;
     font-size: 52px;
@@ -44,7 +48,17 @@ h1 {
 #title-section {
     margin-bottom: 50px;
 }
-
+#content-section{
+    max-width: 680px;
+    margin: auto;
+}
+.hero-image{
+    margin-bottom: 50px 0;
+}
 .hero-image img {
     max-width: 100%;
+}
+
+iframe{
+    margin: 50px 0;
 }
